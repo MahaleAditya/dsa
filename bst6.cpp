@@ -1,15 +1,6 @@
 #include<iostream>
 using namespace std;
 
-struct node
-{
-    int data;
-    struct node* left;
-    struct node* right;
-
-}*root = NULL;#include<iostream>
-using namespace std;
-
 // Structure for a node in the binary search tree
 struct node
 {
